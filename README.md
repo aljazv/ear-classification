@@ -7,9 +7,12 @@ To use the classification first install the requirements.
 pip install -r requirements.txt
 ```
 
-Download the AWEDataset and unzip it such that there is a awe directory in this directory.
+Download the AWEDataset and awe-translation.csv in this directory.
+Directory should look like this:
 
-`ear-classification/awe`
+`ear-classification/awe/*`
+
+`ear-classification/awe-translation.csv`
 
 Start jupyter notebook
 
